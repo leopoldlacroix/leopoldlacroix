@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leopoldlacroix
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning a lot!
+- 👀 I’m interested in data science, machine learning and statistics.
+- 🌱 I’m always learning a lot!
 - 📫 How to reach me http://www.linkedin.com/in/LeopoldLacroix/
 
 <!---
