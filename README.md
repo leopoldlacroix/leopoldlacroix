@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @leopoldlacroix
-- 👀 I’m interested in data science, machine learning and statistics.
-- 🌱 I’m always learning a lot!
-- 📫 How to reach me: http://www.linkedin.com/in/LeopoldLacroix/
+### Hi there, I'm Leopold Lacroix! 👋
 
-<!---
-leopoldlacroix/leopoldlacroix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🤩 I'm passionate about computer science, data science, machine learning, and statistics.
+- 🚀 I'm always exploring new ideas and technologies, and I love sharing my knowledge with others.
+- 🌱 I’m currently learning and growing every day.
+- 📫 You can reach out to me on [LinkedIn](http://www.linkedin.com/in/LeopoldLacroix/).
+- 👀 Check out more about me on my [personal website](https://leopoldlacroix.github.io/).
+
+
+⭐️ Fun Fact: I believe that curiosity is the engine of learning, and I'm always on the lookout for intriguing problems to solve and interesting projects to work on.
+
+Let's connect and learn together! 😊
